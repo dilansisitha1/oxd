@@ -1,4 +1,4 @@
-2024-12-17 - 5b328d8f509422691e62e2d2c7ab7237207c041d - components/src/core/components/Icon/icons.ts - Add oxd-summary-report and oxd-detailed-report icons
+2025-01-17 - 5b328d8f509422691e62e2d2c7ab7237207c041d - components/src/core/components/Icon/icons.ts - Add oxd-summary-report and oxd-detailed-report icons
 
 2024-12-16 - f255b3c85791e055d3e20ac17da329997382ab17 - components/src/styles/_utility.scss - Reduce the max-width of system tooltips to 200px
 
@@ -6,7 +6,7 @@
 
 2024-12-06 - 6cb384e32c6b56d65cc35801cfd54ba1b3aca5fb - CardTable/Cell/DefaultCellContainer.vue, CardTable/Header/DefaultCardHeader.vue, CardTable/Table/_variables.scss, CardTable/Table/table-row.scss, List/list.scss, ListTable/CellContainer.vue - Add 11px left and right padding for each cell, remove right padding of checkbox cell, make left padding of any first coloumn 5px and right align all action buttons in action class.
 
-2024-12-05 - c041308720a8cf73b879a431e97ff08f997df0a8 - TinyMce/TinyMce.vue - add background image and remove image option  
+2024-12-05 - c041308720a8cf73b879a431e97ff08f997df0a8 - TinyMce/TinyMce.vue - add background image and remove image option
 
 2024-12-02 - abc536c1864e5c272aac7508bf19066148f0969c - components/Icon/icons.ts - Update oxd-refresh icon fill colour
 
