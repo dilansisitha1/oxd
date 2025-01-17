@@ -6,7 +6,7 @@
 
 2024-12-06 - 6cb384e32c6b56d65cc35801cfd54ba1b3aca5fb - CardTable/Cell/DefaultCellContainer.vue, CardTable/Header/DefaultCardHeader.vue, CardTable/Table/_variables.scss, CardTable/Table/table-row.scss, List/list.scss, ListTable/CellContainer.vue - Add 11px left and right padding for each cell, remove right padding of checkbox cell, make left padding of any first coloumn 5px and right align all action buttons in action class.
 
-2024-12-05 - c041308720a8cf73b879a431e97ff08f997df0a8 - TinyMce/TinyMce.vue - add background image and remove image option
+2024-12-05 - c041308720a8cf73b879a431e97ff08f997df0a8 - TinyMce/TinyMce.vue - add background image and remove image option  
 
 2024-12-02 - abc536c1864e5c272aac7508bf19066148f0969c - components/Icon/icons.ts - Update oxd-refresh icon fill colour
 
