@@ -1,4 +1,4 @@
-2024-12-17 - commit_hash - components/src/core/components/Icon/icons.ts - Add oxd-summary-report and oxd-detailed-report icons
+2024-12-17 - 5b328d8f509422691e62e2d2c7ab7237207c041d - components/src/core/components/Icon/icons.ts - Add oxd-summary-report and oxd-detailed-report icons
 
 2024-12-16 - f255b3c85791e055d3e20ac17da329997382ab17 - components/src/styles/_utility.scss - Reduce the max-width of system tooltips to 200px
 
