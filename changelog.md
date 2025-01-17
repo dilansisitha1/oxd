@@ -1,3 +1,5 @@
+2024-12-17 - commit_hash - components/src/core/components/Icon/icons.ts - Add oxd-summary-report and oxd-detailed-report icons
+
 2024-12-16 - f255b3c85791e055d3e20ac17da329997382ab17 - components/src/styles/_utility.scss - Reduce the max-width of system tooltips to 200px
 
 2024-12-10 - eadf4782dcd2336a5de7efcee2eaaff4a44d1cc9 - CardTable/Cell/Checkbox.vue, Input/CheckboxInput.vue, CardTable/Header/DefaultCardHeader.vue, ListTable/ListTable.vue -  Update Card table, List table bulk selection behavior to match updated OXD standard
